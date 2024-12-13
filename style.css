@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    background-image: url(bilder/360_F_129820472_ag5Hs4J3xH4WsqybNxCGHTybUf5GAYdb.jpg);
+}
+.kontainer {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ff0000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+img {
+    width: 100%;
+    max-width: 200px;
+    display: block;
+    margin: auto;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px
+}
+
+.box {
+    margin-left: 500px;
+    color: #f9f9f9;
+}
+p {
+    color: aliceblue;
+    padding: auto;
+}
+h1 {
+   text-align: center;
+}
+h2 {
+    color: #ffffff;
+    padding: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+section img {
+    margin: 20px;
+}
+section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
